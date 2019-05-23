@@ -8,6 +8,8 @@ public class ApplicationRunner {
 
     static void someMethod(String msg) {
         System.out.println(msg);
+
+        //add sth
     }
 
 }
